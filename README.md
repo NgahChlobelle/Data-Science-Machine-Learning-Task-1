@@ -13,7 +13,7 @@
 ## COMMANDS EXECUTED
 
 - Creating a list
-1. List Operations (Mutable Sequences)
+### **1. List Operations (Mutable Sequences)**
 
 - Initializing a list with string elements
 letters = ['a', 'b', 'c', 'd', 'e']
@@ -48,7 +48,7 @@ letters.count('b')
 - Reversing the current order of the list
 letters.reverse()
 
-- **2. Tuple Operations (Immutable Sequences)**
+### **2. Tuple Operations (Immutable Sequences)**
 - Defining a tuple
 ngah = ('a', 'b', 'c', 'd', 'e')
 
@@ -61,7 +61,7 @@ ngah.count('a')
 - Finding the index of 'c'
 ngah.index('c')
 
-- **3. Dictionary Operations (Key-Value Mapping)**
+### **3. Dictionary Operations (Key-Value Mapping)**
 - Method 1: Creation using keyword arguments
 my_dict = dict(name='belle', age=95, city='bamenda')
 
