@@ -175,7 +175,7 @@ my_dict.update({'gender': ['female', 'female', 'male']})
 ![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning/blob/44d7ced2940b550eee858e30ace37ceaa7288ac8/Data%20Structures-Data%20Science%20and%20ML%20Image%203.PNG)
 ![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning/blob/9006e67ea0a8d013e7dad1b17a9ce459232fda10/Data%20Structures-Data%20Science%20and%20ML%20Image%204.PNG)
 ![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning/blob/aaa929b33b7d04011f402afcdfac0bff3496dcbe/Data%20Structures-Data%20Science%20and%20ML%20Image%205.PNG)
-
+![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning/blob/0ca2d56b9b3042f1116b3c182e925796b4c4b93a/Data%20Structures-Data%20Science%20and%20ML%20Image%206.PNG)
 
 
 ## KEY OBSERVATIONS/LESSONS LEARNED
