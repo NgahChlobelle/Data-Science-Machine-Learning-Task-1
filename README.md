@@ -170,7 +170,7 @@ my_dict.values()
 my_dict.update({'gender': ['female', 'female', 'male']})
 
 ## SCREENSHOTS OF RESULTS
-
+![image alt] {https://github.com/NgahChlobelle/Data-Science-Machine-Learning/blob/e812e77742ea58102dc5158a8b4cbcd0206ec45d/Data%20Structures-Data%20Science%20and%20ML%20Image%201.PNG}
 
 
 ## KEY OBSERVATIONS/LESSONS LEARNED
