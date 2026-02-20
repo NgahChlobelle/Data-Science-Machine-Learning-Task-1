@@ -177,7 +177,7 @@ my_dict.update({'gender': ['female', 'female', 'male']})
 ![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning/blob/aaa929b33b7d04011f402afcdfac0bff3496dcbe/Data%20Structures-Data%20Science%20and%20ML%20Image%205.PNG)
 ![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning/blob/0ca2d56b9b3042f1116b3c182e925796b4c4b93a/Data%20Structures-Data%20Science%20and%20ML%20Image%206.PNG)
 ![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning/blob/75181b58582f851c5e7627e09efd60b116eaa15e/Data%20Structures-Data%20Science%20and%20ML%20Image%207.PNG)
-
+![image alt](https://github.com/NgahChlobelle/Data-Science-Machine-Learning/blob/9c03d421b9d72adf9a23b8a77211e6a0a38379e1/Data%20Structures-Data%20Science%20and%20ML%20Image%208.PNG)
 ## KEY OBSERVATIONS/LESSONS LEARNED
 - Lists are Dynamic: Observed that lists can be modified (mutable) using .append(), .pop(), and .insert(). This makes them ideal for datasets that grow over time.
 
