@@ -30,7 +30,7 @@ letters.insert(0, 1)
 - Removing 'a' by value
 letters.remove('a')
 
-# Re-inserting 'a' at index 1
+- Re-inserting 'a' at index 1
 letters.insert(1, 'a')
 
 - Removing and returning the element at index 3
