@@ -66,7 +66,7 @@ ngah.index('c')
 
 This phase focused on creating key-value pairs using various Python constructors, essential for handling structured data.
 
-#### 1 Multiple Creation Methods: We practiced three ways to define a dictionary to understand syntax flexibility.
+#### 1. Multiple Creation Methods: We practiced three ways to define a dictionary to understand syntax flexibility.
 
 ##### Method 1: Using keyword arguments
 my_dict = dict(name='belle', age=95, city='bamenda')
@@ -77,7 +77,7 @@ my_dict = dict([('name', 'belle'), ('age', 95), ('city', 'bamenda')])
 ##### Method 3: Using standard curly braces
 my_dict = {'name': 'belle', 'age': 95, 'city': 'bamenda'}
 
-#### 2 Handling Complex Values: We mapped single keys to multiple values (tuples and lists) to simulate a database record.
+#### 2. Handling Complex Values: We mapped single keys to multiple values (tuples and lists) to simulate a database record.
 
 - Mapping keys to tuples
 my_dict = {
@@ -93,7 +93,7 @@ my_dict_2 = dict([
     ('city', ['bamenda', 'douala', 'maryland'])
 ])
 
-#### 3 Data Retrieval: Using built-in methods to isolate keys, values, or items.
+#### 3. Data Retrieval: Using built-in methods to isolate keys, values, or items.
 
 my_dict.get('names')  # Safe retrieval
 my_dict.items()       # Returns key-value pairs
